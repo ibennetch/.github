@@ -1,0 +1,1 @@
+If you find a security issue, please report it to me directly by email.
